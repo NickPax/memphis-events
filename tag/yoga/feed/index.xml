@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>yoga</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Wed, 30 May 2018 12:22:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.6</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2018/05/cbkq4-xxbyx-0.png</url>
+	<title>yoga</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Yoga!</title>
+		<link>./../../../event/yoga/index.html</link>
+		<comments>./../../../event/yoga/index.html#respond</comments>
+		<pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas]]></dc:creator>
+				<category><![CDATA[yoga]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?post_type=tribe_events&#038;p=57</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>./../../../event/yoga/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
