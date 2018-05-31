@@ -11,8 +11,8 @@
 	<title>yoga</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Wed, 30 May 2018 12:22:00 +0000</lastBuildDate>
+	<description>Memphis Events</description>
+	<lastBuildDate>Thu, 31 May 2018 22:06:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -34,8 +34,8 @@
 				<category><![CDATA[yoga]]></category>
 
 		<guid isPermaLink="false">./../../../index.html?post_type=tribe_events&#038;p=57</guid>
-		<description><![CDATA[]]></description>
-				<content:encoded><![CDATA[]]></content:encoded>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad]]></description>
+				<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad]]></content:encoded>
 			<wfw:commentRss>./../../../event/yoga/feed/index.html</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
