@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Upcoming Events</title>
+	<title>Upcoming Events &#8211; Memphis Events</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
 	<description>Memphis Events</description>
-	<lastBuildDate>Thu, 31 May 2018 22:06:41 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Jun 2018 21:36:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,94 +20,12 @@
 
 <image>
 	<url>./../../wp-content/uploads/2018/05/cbkq4-xxbyx-0.png</url>
-	<title>Upcoming Events</title>
+	<title>Upcoming Events &#8211; Memphis Events</title>
 	<link>./../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Susan Tedeschi – LIVE</title>
-		<link>./../../event/susan-teschidi-live/index.html</link>
-		<comments>./../../event/susan-teschidi-live/index.html#respond</comments>
-		<pubDate>Fri, 01 Jun 2018 08:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[Nicholas]]></dc:creator>
-		
-		<guid isPermaLink="false">./../../index.html?post_type=tribe_events&#038;p=309</guid>
-		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad]]></description>
-				<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad]]></content:encoded>
-			<wfw:commentRss>./../../event/susan-teschidi-live/feed/index.html</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Yoga!</title>
-		<link>./../../event/yoga/index.html</link>
-		<comments>./../../event/yoga/index.html#respond</comments>
-		<pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[Nicholas]]></dc:creator>
-				<category><![CDATA[yoga]]></category>
-
-		<guid isPermaLink="false">./../../index.html?post_type=tribe_events&#038;p=57</guid>
-		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad]]></description>
-				<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad]]></content:encoded>
-			<wfw:commentRss>./../../event/yoga/feed/index.html</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Will Tucker – Live</title>
-		<link>./../../event/will-tucker-live/index.html</link>
-		<comments>./../../event/will-tucker-live/index.html#respond</comments>
-		<pubDate>Sat, 02 Jun 2018 08:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[Nicholas]]></dc:creator>
-				<category><![CDATA[blues]]></category>
-
-		<guid isPermaLink="false">./../../index.html?post_type=tribe_events&#038;p=71</guid>
-		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempo]]></description>
-				<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempo]]></content:encoded>
-			<wfw:commentRss>./../../event/will-tucker-live/feed/index.html</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Discover the Delta Blues</title>
-		<link>./../../event/discover-the-delta-blues/index.html</link>
-		<comments>./../../event/discover-the-delta-blues/index.html#respond</comments>
-		<pubDate>Sun, 03 Jun 2018 19:30:00 +0000</pubDate>
-		<dc:creator><![CDATA[Nicholas]]></dc:creator>
-				<category><![CDATA[blues]]></category>
-
-		<guid isPermaLink="false">./../../index.html?post_type=tribe_events&#038;p=33</guid>
-		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempo]]></description>
-				<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempo]]></content:encoded>
-			<wfw:commentRss>./../../event/discover-the-delta-blues/feed/index.html</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Pancho&#8217;s Veg-out</title>
-		<link>./../../event/panchos-veg-out/index.html</link>
-		<comments>./../../event/panchos-veg-out/index.html#respond</comments>
-		<pubDate>Tue, 05 Jun 2018 08:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[Nicholas]]></dc:creator>
-		
-		<guid isPermaLink="false">./../../index.html?post_type=tribe_events&#038;p=82</guid>
-		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad ]]></description>
-				<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad ]]></content:encoded>
-			<wfw:commentRss>./../../event/panchos-veg-out/feed/index.html</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Tribute to Preston Shannon</title>
-		<link>./../../event/king-of-beale-st/index.html</link>
-		<comments>./../../event/king-of-beale-st/index.html#respond</comments>
-		<pubDate>Fri, 08 Jun 2018 18:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[Nicholas]]></dc:creator>
-				<category><![CDATA[blues]]></category>
-
-		<guid isPermaLink="false">./../../index.html?post_type=tribe_events&#038;p=50</guid>
-		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad]]></description>
-				<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad]]></content:encoded>
-			<wfw:commentRss>./../../event/king-of-beale-st/feed/index.html</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
 		<title>Power Climb</title>
 		<link>./../../event/power-climb/index.html</link>
 		<comments>./../../event/power-climb/index.html#respond</comments>
@@ -157,6 +75,58 @@
 		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad ]]></description>
 				<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad ]]></content:encoded>
 			<wfw:commentRss>./../../event/stax-museum/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Main Street</title>
+		<link>./../../event/main-street/index.html</link>
+		<comments>./../../event/main-street/index.html#respond</comments>
+		<pubDate>Sun, 01 Jul 2018 08:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas]]></dc:creator>
+		
+		<guid isPermaLink="false">./../../index.html?post_type=tribe_events&#038;p=102</guid>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad]]></description>
+				<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad]]></content:encoded>
+			<wfw:commentRss>./../../event/main-street/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Susan Tedeschi – LIVE</title>
+		<link>./../../event/susan-teschidi-live/index.html</link>
+		<comments>./../../event/susan-teschidi-live/index.html#respond</comments>
+		<pubDate>Mon, 16 Jul 2018 08:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas]]></dc:creator>
+		
+		<guid isPermaLink="false">./../../index.html?post_type=tribe_events&#038;p=309</guid>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad]]></description>
+				<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad]]></content:encoded>
+			<wfw:commentRss>./../../event/susan-teschidi-live/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>My cuppa tea</title>
+		<link>./../../event/my-cuppa-tea/index.html</link>
+		<comments>./../../event/my-cuppa-tea/index.html#respond</comments>
+		<pubDate>Sun, 22 Jul 2018 08:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas]]></dc:creator>
+		
+		<guid isPermaLink="false">./../../index.html?post_type=tribe_events&#038;p=484</guid>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+				<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></content:encoded>
+			<wfw:commentRss>./../../event/my-cuppa-tea/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>King Elvis</title>
+		<link>./../../event/king-elvis/index.html</link>
+		<comments>./../../event/king-elvis/index.html#respond</comments>
+		<pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas]]></dc:creator>
+		
+		<guid isPermaLink="false">./../../index.html?post_type=tribe_events&#038;p=217</guid>
+		<description><![CDATA[Elvis Week!]]></description>
+				<content:encoded><![CDATA[Elvis Week!]]></content:encoded>
+			<wfw:commentRss>./../../event/king-elvis/feed/index.html</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

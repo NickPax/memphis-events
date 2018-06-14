@@ -221,6 +221,10 @@ a.ect-event-read-more {
   width: 100%;
   background-color:#dfeadc;
 }
+
+.ect-list-post-left {
+   height: 0px;
+}
 img.ect-fit_cover, .ect-list-post img.ect-fit_cover {
     object-fit:cover;
     object-position: 50% 50%;

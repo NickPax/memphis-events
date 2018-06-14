@@ -1,0 +1,108 @@
+/*
+Theme Name: OceanWP Child
+Theme URI: https://oceanwp.org/
+Description: OceanWP WordPress theme example child theme.
+Author: Nick
+Author URI: https://oceanwp.org/
+Template: oceanwp
+Version: 1.0
+*/
+
+html, body{
+    overflow-x: hidden;
+}
+
+.page-header {
+    display: none !important;
+}
+
+#site-header.medium-header .top-header-wrap, .is-sticky #site-header.medium-header.is-transparent .top-header-wrap, #searchform-header-replace {
+    display: none;
+}
+
+
+#ect-events-list-content h2.ect-events-page-title {
+    /* this controls the second events div's title */
+    max-width: 960px;
+    margin: 0 auto 20px;
+    /* width: 100%; */
+    padding-top: 8px;
+    padding-bottom: 7px;
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif !important;
+}
+
+.ect-list-post-left {
+    height: 200px !important;
+    /* width: 200px !important; */
+}
+/* 
+.ect-list-post-right {
+    width: 57% !important;
+} */
+
+/* .elementor-274 .elementor-element.elementor-element-c0cfe3a {
+    background-color: yellow;
+} */
+
+.elementor-258 .elementor-element.elementor-element-7033e1c > .elementor-widget-container {
+    /* margin: -49px 121px 27px 31px; */
+    padding: 0px 0px 20px 0px;
+}
+
+input[type="button"], input[type="reset"], input[type="submit"], button[type="submit"], .button {
+    display: inline-block;
+    font-family: inherit;
+    background-color: #13aff0;
+    color: #fff;
+    font-size: 12px;
+}
+
+/* @media all and (min-width: 1024px) {
+    #ect-events-list-content h2.ect-events-page-title {
+        max-width: 960px;
+        margin: 0 auto 20px;
+        padding-top: 8px;
+        padding-bottom: 7px;
+    }
+} */
+
+
+    .lae-portfolio-wrap .lae-taxonomy-filter {
+        /* margin-top: -28px !important; */
+        font-family: 'Roboto', sans-serif !important; 
+    }
+    .elementor-274 .elementor-element.elementor-element-c0e7c98 .lae-portfolio-wrap .lae-taxonomy-filter .lae-filter-item a {
+        font-size: 16px;
+    }
+
+    .lae-portfolio-wrap .lae-portfolio .lae-portfolio-item .lae-project-image .lae-image-info .lae-post-title a {
+        display: none;
+        color: #fff;
+        -webkit-transition: all 0.3s ease-in-out 0s;
+        transition: all 0.3s ease-in-out 0s;
+        border-bottom: 1px solid transparent;
+        font-family: monospace;
+    }
+
+
+    .lae-portfolio-wrap .lae-portfolio .lae-portfolio-item .lae-entry-text-wrap {
+        text-align: center;
+        max-width: 650px;
+        margin: 20px auto 0;
+        margin-top: 9px;
+    }
+
+    /* .elementor-274 .elementor-element.elementor-element-c0e7c98 .lae-portfolio-wrap .lae-portfolio .lae-portfolio-item .entry-title {
+        font-family: "Roboto Condensed", Sans-serif !important;
+        font-size: 17px;
+        font-weight: 500;
+        padding-top: -24px;
+       
+        padding-bottom: 18px;
+    } */
+
+    /* .ect-list-post .ect-list-post-right, .cool-timeline.white-timeline .timeline-post .timeline-content {
+        background: #f3fbf1;
+        margin-bottom: -30px !important;
+    } */
