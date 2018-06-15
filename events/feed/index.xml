@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Upcoming Events</title>
+	<title>Upcoming Events &#8211; Memphis Events</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
 	<description>Memphis Events</description>
-	<lastBuildDate>Fri, 15 Jun 2018 17:09:03 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Jun 2018 21:36:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,12 +20,25 @@
 
 <image>
 	<url>./../../wp-content/uploads/2018/05/cbkq4-xxbyx-0.png</url>
-	<title>Upcoming Events</title>
+	<title>Upcoming Events &#8211; Memphis Events</title>
 	<link>./../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
+		<title>Power Climb</title>
+		<link>./../../event/power-climb/index.html</link>
+		<comments>./../../event/power-climb/index.html#respond</comments>
+		<pubDate>Sun, 10 Jun 2018 08:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Nicholas]]></dc:creator>
+		
+		<guid isPermaLink="false">./../../index.html?post_type=tribe_events&#038;p=87</guid>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempo]]></description>
+				<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempo]]></content:encoded>
+			<wfw:commentRss>./../../event/power-climb/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Street Art Expo</title>
 		<link>./../../event/street-art-expo/index.html</link>
 		<comments>./../../event/street-art-expo/index.html#respond</comments>
