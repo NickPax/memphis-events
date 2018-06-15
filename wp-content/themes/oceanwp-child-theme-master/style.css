@@ -78,11 +78,11 @@ input[type="button"], input[type="reset"], input[type="submit"], button[type="su
 
     .lae-portfolio-wrap .lae-portfolio .lae-portfolio-item .lae-project-image .lae-image-info .lae-post-title a {
         display: none;
-        color: #fff;
+        /* color: #fff;
         -webkit-transition: all 0.3s ease-in-out 0s;
         transition: all 0.3s ease-in-out 0s;
         border-bottom: 1px solid transparent;
-        font-family: monospace;
+        font-family: monospace; */
     }
 
 
@@ -92,6 +92,13 @@ input[type="button"], input[type="reset"], input[type="submit"], button[type="su
         margin: 20px auto 0;
         margin-top: 9px;
     }
+
+    #site-header.medium-header .oceanwp-mobile-menu-icon a {
+        float: none;
+        display: inline-block;
+        font-size: 20px;
+    }
+        
 
     /* .elementor-274 .elementor-element.elementor-element-c0e7c98 .lae-portfolio-wrap .lae-portfolio .lae-portfolio-item .entry-title {
         font-family: "Roboto Condensed", Sans-serif !important;
